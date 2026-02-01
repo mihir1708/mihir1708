@@ -123,19 +123,6 @@ Android event lottery and management application
 
 ---
 
-<h2> 📊 &nbsp;GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mihir1708&show_icons=true&theme=dark&hide_border=true&count_private=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir1708&layout=compact&theme=dark&hide_border=true"
-    height="165"
-  />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mihir1708/mihir1708/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mihir1708/mihir1708/output/github-contribution-grid-snake.svg">
