@@ -123,16 +123,21 @@ Android event lottery and management application
 
 ---
 
-<h2> 📈 &nbsp;Recent GitHub Activity</h2>
+<h2> 📊 &nbsp;GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihir1708&theme=github-dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mihir1708&show_icons=true&theme=dark&hide_border=true&count_private=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir1708&layout=compact&theme=dark&hide_border=true"
+    height="165"
+  />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/mihir1708/mihir1708/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mihir1708/mihir1708/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mihir1708/mihir1708/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mihir1708/mihir1708/output/github-contribution-grid-snake.svg">
+</picture>
