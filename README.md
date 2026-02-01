@@ -133,5 +133,6 @@ Android event lottery and management application
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
 
-![Snake animation]
-(https://github.com/mihir1708/mihir1708/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/mihir1708/mihir1708/blob/output/github-contribution-grid-snake.svg" />
+</p>
