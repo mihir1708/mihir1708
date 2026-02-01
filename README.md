@@ -46,7 +46,7 @@ technical_background:
   ]
 
 currently_learning: ["Distributed systems design", "ML systems", "Cloud infrastructure"]
-goals_2025: ["Build scalable systems", "Deepen systems and ML expertise"]
+goals_2026: ["Build scalable systems", "Deepen systems and ML expertise"]
 ```
 
 ---
