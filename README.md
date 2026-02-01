@@ -122,6 +122,9 @@ Android event lottery and management application
 - Deep Learning Specialization – DeepLearning.AI  
 
 ---
+<p align="center">
+  <img src="https://github.com/mihir1708/mihir1708/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <h2> 📈 &nbsp;Recent GitHub Activity</h2>
 
